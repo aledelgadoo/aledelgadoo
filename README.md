@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aledelgadoo&label=Profile%20views&color=0e75b6&style=flat" alt="aledelgadoo" /> </p>
 
-- 🔭 Aprendiendo... **Git** y **GitHub**, **LaTeX**, desarrolo de APPs para móvil con **Flutter**, y algo de **HTML/CSS**
+- 🔭 Aprendiendo... **Git** y **GitHub**, **LaTeX**, desarrollo de APPs para móvil con **Flutter**, y algo de **HTML/CSS**
 
 - 🤖 Conocimientos en... **Python**, **R**, **Java** y **C**
 
