@@ -2,7 +2,6 @@
 <h3 align="center">Estudiante de Ciencia e Ingeniería de Datos en la ULPGC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aledelgadoo&label=Profile%20views&color=0e75b6&style=flat" alt="aledelgadoo" /> </p>
-# Hola 👋, soy Ale
 
 Estudiante de **2º año en Ciencia e Ingeniería de Datos** en la **ULPGC**. 
 ---
