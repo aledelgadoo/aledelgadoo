@@ -17,3 +17,11 @@ Estudiante de **2º año en Ciencia e Ingeniería de Datos** en la **ULPGC**.
 - LinkedIn: [Alejandro Delgado Valera](www.linkedin.com/in/alejandro-delgado-valera-522613335)  
 - Correo académico: alejandro.delgado105@alu.ulpgc.es  
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/aledelgadoo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aledelgadoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aledelgadoo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
