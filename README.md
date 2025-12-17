@@ -21,7 +21,7 @@ Estudiante de **2º año en Ciencia e Ingeniería de Datos** en la **ULPGC**.
 
 <p align="center">
 <a href="https://github.com/aledelgadoo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aledelgadoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aledelgadoo&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aledelgadoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aledelgadoo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
