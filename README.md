@@ -1,15 +1,27 @@
-<h1 align="center">Alejandro Delgado Valera 👾</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aledelgadoo&label=Profile%20views&color=0e75b6&style=flat" alt="aledelgadoo" /> </p>
 
-Estudiante de **2º año en Ciencia e Ingeniería de Datos** en la **ULPGC**. 
----
+<h1 align="center">Alejandro Delgado Valera 👾</h1>
 
-## 🛠 Habilidades y herramientas
-- **Lenguajes:** Python, R, JAVA
-- **Visualización:** Matplotlib, Rmd
-- **Datos:** Análisis exploratorio, limpieza y manipulación de datasets  
-- **Otros:** Git, GitHub, Latex, Streamlit
+
+### Estudiante de **2º año en Ciencia e Ingeniería de Datos** en la **ULPGC**. 
+
+
+## 🛠️ Tecnologías y habilidades
+
+### 💻 **Lenguajes principales**  
+Python · R · Java  
+
+### 📊 **Datos y visualización**  
+Análisis de datos · Visualización estadística · Dashboards interactivos con **R Shiny**
+
+### 🌐 **Desarrollo web**  
+HTML · CSS (nivel intermedio)
+
+### 📐 **Ingeniería del software**  
+Modelado conceptual y funcional · UML (StarUML)
+
+### 🔧 **Otros lenguajes**  
+C · MATLAB (nivel básico)
 
 ---
 
