@@ -1,9 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aledelgadoo&label=Profile%20views&color=0e75b6&style=flat" alt="aledelgadoo" /> </p>
 
-<h1 align="center">Alejandro Delgado Valera 👾</h1>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e8b5e4ea-9c47-49cf-bf99-b6f92ec6e752" />
 
-
-### Estudiante de **2º año en Ciencia e Ingeniería de Datos** en la **ULPGC**. 
 
 
 ## 🛠️ Tecnologías y habilidades
