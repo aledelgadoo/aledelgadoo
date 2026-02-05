@@ -7,7 +7,7 @@
 ## 🛠️ Tecnologías y habilidades
 
 ### 💻 **Lenguajes principales**  
-Python · R · Java  
+[![Mis Habilidades](https://skillicons.dev/icons?i=r,py,java&perline=4)](https://skillicons.dev)
 
 ### 📊 **Datos y visualización**  
 Análisis de datos · Visualización estadística · Dashboards interactivos con **R Shiny**
