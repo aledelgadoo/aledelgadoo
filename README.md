@@ -9,18 +9,14 @@
 ### 💻 **Lenguajes principales**  
 [![Mis Habilidades](https://skillicons.dev/icons?i=r,py,java&perline=4)](https://skillicons.dev)
 
-### 📊 **Datos y visualización**  
-Análisis de datos · Visualización estadística · Dashboards interactivos con **R Shiny**
-
-### 🌐 **Desarrollo web**  
-HTML · CSS (nivel intermedio)
+### 🌐 **Desarrollo web / Aplicaciones**  
+[![Mis Habilidades](https://skillicons.dev/icons?i=html,css,js,flutter,dart&perline=5)](https://skillicons.dev)
 
 ### 📐 **Ingeniería del software**  
-Modelado conceptual y funcional · UML (StarUML)
+[![Mis Habilidades](https://skillicons.dev/icons?i=idea,git,github&perline=5)](https://skillicons.dev)
 
-### 🔧 **Otros lenguajes**  
-C · MATLAB (nivel básico)
-
+### 📊 **Ciencia de datos**  
+#### Data analysis · Statistical visualization · Data cleaning · Interactive dashboards with **R Shiny**
 ---
 
 ## 🔗 Contacto
